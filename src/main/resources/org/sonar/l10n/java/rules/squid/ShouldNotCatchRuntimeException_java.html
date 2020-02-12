@@ -1,0 +1,17 @@
+<p>Should not catch RuntimeException</p>
+<h2>Noncompliant Code Example</h2>
+<pre>
+   try{
+        ...
+    } catch(NullPoniterException e){
+        ...
+    } // Noncompliant
+</pre>
+<h2>Compliant Solution</h2>
+<pre>
+   try{
+        ...
+    } catch(BizException e){
+        ...
+    }
+</pre>

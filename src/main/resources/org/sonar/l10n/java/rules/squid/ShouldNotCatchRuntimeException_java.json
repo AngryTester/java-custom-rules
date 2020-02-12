@@ -1,0 +1,11 @@
+{
+  "title": "[paic]Should not catch RuntimeException",
+  "type": "CODE_SMELL",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "1min"
+  },
+  "tags": [],
+  "defaultSeverity": "CRITICAL"
+}

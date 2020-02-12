@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0c2c19d-c635-41a4-a50d-eff37257994b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/opt/apache-maven-3.2.5" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Srk4pbVWgFhYClRU8T96iKNwHx" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../maven-hello-world-master/my-app" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.sonar.samples.java.checks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MyJavaRulesDefinitionTest">
+    <configuration name="AvoidMethodDeclarationCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-custom-rules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sonar.samples.java.checks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.sonar.samples.java.checks" />
+      <option name="MAIN_CLASS_NAME" value="org.sonar.samples.java.checks.AvoidMethodDeclarationCheckTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AvoidSuperClassCheckTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-custom-rules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sonar.samples.java.checks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.sonar.samples.java.checks" />
+      <option name="MAIN_CLASS_NAME" value="org.sonar.samples.java.checks.AvoidSuperClassCheckTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyJavaRulesDefinitionTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-custom-rules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sonar.samples.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.sonar.samples.java" />
+      <option name="MAIN_CLASS_NAME" value="org.sonar.samples.java.MyJavaRulesDefinitionTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyJavaRulesDefinitionTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-custom-rules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sonar.samples.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.sonar.samples.java" />
+      <option name="MAIN_CLASS_NAME" value="org.sonar.samples.java.MyJavaRulesDefinitionTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NameShouldNotContainChineseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-custom-rules" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.sonar.samples.java.checks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.sonar.samples.java.checks" />
+      <option name="MAIN_CLASS_NAME" value="org.sonar.samples.java.checks.NameShouldNotContainChineseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MyJavaRulesDefinitionTest" />
+        <item itemvalue="JUnit.NameShouldNotContainChineseTest" />
+        <item itemvalue="JUnit.MyJavaRulesDefinitionTest.test" />
+        <item itemvalue="JUnit.AvoidMethodDeclarationCheckTest" />
+        <item itemvalue="JUnit.AvoidSuperClassCheckTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0c2c19d-c635-41a4-a50d-eff37257994b" name="Default Changelist" comment="" />
+      <created>1572328913306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572328913306</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.java:java-checks:5.12.1.17771">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-checks/5.12.1.17771/java-checks-5.12.1.17771.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-checks/5.12.1.17771/java-checks-5.12.1.17771-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/java/java-checks/5.12.1.17771/java-checks-5.12.1.17771-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

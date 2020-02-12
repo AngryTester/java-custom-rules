@@ -1,0 +1,21 @@
+<p>Name should not contain chinese</p>
+<h2>Noncompliant Code Example</h2>
+<pre>
+    public class 动物{// Noncompliant
+    }
+
+    public void 跑(){// Noncompliant
+    }
+
+    public static final String 颜色;// Noncompliant
+</pre>
+<h2>Compliant Solution</h2>
+<pre>
+    public class animal{
+    }
+
+    public void run(){
+    }
+
+    public static final String color;
+</pre>

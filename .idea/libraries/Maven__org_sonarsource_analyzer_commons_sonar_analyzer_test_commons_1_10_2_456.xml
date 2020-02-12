@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.sonarsource.analyzer-commons:sonar-analyzer-test-commons:1.10.2.456">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/analyzer-commons/sonar-analyzer-test-commons/1.10.2.456/sonar-analyzer-test-commons-1.10.2.456.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/analyzer-commons/sonar-analyzer-test-commons/1.10.2.456/sonar-analyzer-test-commons-1.10.2.456-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/sonarsource/analyzer-commons/sonar-analyzer-test-commons/1.10.2.456/sonar-analyzer-test-commons-1.10.2.456-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
